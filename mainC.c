@@ -1,4 +1,5 @@
 #include <stdio.h>
+//пункт истории для разветвления
 
 int main(){
     int a, b;
